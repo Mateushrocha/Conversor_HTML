@@ -1,4 +1,5 @@
-#Gerador HTML 🌐
+*Gerador HTML* 🌐
+
 Um script simples e eficiente em Python que permite baixar o código fonte de qualquer página da web e salvá-lo localmente como um arquivo .html.
 
 🚀 Funcionalidades
